@@ -1,0 +1,2 @@
+进入dist文件夹后，双击becomeSJM.exe文件即可运行。
+虽然这是一个只有2kb大小的python文件，但这是开发5G的一大步！
